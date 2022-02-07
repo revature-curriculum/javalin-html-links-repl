@@ -1,4 +1,4 @@
-## Javalin HTML Links
+## Web App Links
 ---
 ### Description
 In this lab, we will go over creating links in your Javalin web application.
