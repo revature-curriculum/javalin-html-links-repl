@@ -5,6 +5,9 @@
 </head>
 <body>
 
+  <a href="/eagle">Eagle</a>
+  <a href="/parrot">Parrot</a>
+
 
 </body>
 </html>
